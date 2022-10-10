@@ -15,7 +15,7 @@ public class exercicio8 {
         System.out.print("Quantas horas você trabalha por mês? ");
         horasTrabalhadas = tecladoSc.nextDouble();
 
-        /* Manipulação matemárica */
+        /* Manipulação matemática */
         salario = horasTrabalhadas * valorDaHora;
 
         System.out.println("O seu salário é de: R$" + salario);
